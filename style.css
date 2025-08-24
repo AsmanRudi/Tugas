@@ -16,6 +16,7 @@
     height: 350px;
     border: 2px solid white;
     box-shadow: 6px 7px 8px 0px #1c54c6;
+    color: red;
 }
 .avatar img{
     object-fit: cover;
